@@ -5,3 +5,4 @@ outputs/
 *.ckpt
 __pycache__/
 .ipynb_checkpoints/
+.venv/
